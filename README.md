@@ -1,1 +1,1 @@
-# Dynamic-web-page-using-JavaScript-and-HTML5-CSS3
+# Dynamic-Webpage-using-JavaScript-HTML5-and-CSS3
